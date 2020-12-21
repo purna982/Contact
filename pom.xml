@@ -38,7 +38,7 @@
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>-->
 		
-		<!-- https://mvnrepository.com/artifact/junit/junit -->
+		<!-- https://mdddvnrepository.com/artifact/junit/junit -->
 <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
